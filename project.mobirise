@@ -52,6 +52,7 @@
     ],
     "imageResize": true,
     "publishChangesOnly": true,
+    "publishEditFolder": false,
     "uniqCompNum": 0,
     "versionPublish": "5.9.18"
   },
